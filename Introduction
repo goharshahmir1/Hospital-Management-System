@@ -1,0 +1,40 @@
+*Hospital Management System - Java*
+
+A comprehensive *Hospital Management System* built in Java that streamlines administrative and medical operations. This modular system includes functionalities for admins, receptionists, laboratory staff, and pharmacists—providing a full workflow from appointment scheduling to billing.
+
+---
+
+## 📌 Features
+
+### 🔐 Login System
+
+* Secure login for Admin, Receptionist, Lab Staff, and Pharmacist roles.
+
+### 🧑‍💼 Admin Panel
+
+* Central control system.
+* Manage user accounts and access to all modules.
+
+### 🧾 Receptionist Module
+
+* Schedule and manage patient appointments.
+* Record basic patient information.
+
+### 🔬 Laboratory Module
+
+* Receive test requests from the receptionist or doctors.
+* Upload and manage patient test results.
+
+### 💊 Pharmacy Module
+
+* Receive medicine prescriptions.
+* Dispense medicines to patients.
+* Generate billing and receipts.
+
+---
+
+## 🛠️ Technologies Used
+
+* *Java (Core)* – GUI and application logic
+* *JDBC / MySQL* – Backend database connectivity
+* *NetBeans / IntelliJ* – Recommended IDE for running the project
